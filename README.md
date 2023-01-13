@@ -6,3 +6,6 @@
 3. Open ```app.js``` and write the codes for each function.
 4. Open ```test.js``` and write the test cases for each of the functions in ```app.js```.
 5. Run the command ```npm run test``` in your terminal
+
+
+:information_source: We are using jest as the testing framework for this repository.
