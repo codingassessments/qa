@@ -1,6 +1,3 @@
-// This is the file to check whether your answer is correct or wrong.
-// Do not change anything in this file.
-
 const assert = require('assert');
 const source = require('./app');
 
