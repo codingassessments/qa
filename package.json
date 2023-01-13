@@ -1,0 +1,23 @@
+{
+  "name": "qa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/codingassessments/qa.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codingassessments/qa/issues"
+  },
+  "homepage": "https://github.com/codingassessments/qa#readme",
+  "devDependencies": {
+    "@types/jest": "^29.2.5",
+    "jest": "^29.3.1"
+  }
+}
